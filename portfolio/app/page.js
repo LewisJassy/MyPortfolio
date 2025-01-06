@@ -1,11 +1,10 @@
-"use client"
-import navbar from "./components/navbar";
-import Image from "next/image";
+'use client'
+import Navbar from "./components/Navbar";
 
 export default function Home() {
   return (
     <>
-    <navbar />
+    <Navbar />
     </>
   );
 }
