@@ -7,7 +7,7 @@ const navbar = () => {
     <>
       <nav className='w-full fixed px-5 lg:px-8 xl:px-[8%] py-4 flex items-center justify-between bg-white z-50'>
         <a href="">
-            <Image src={assets.logo} alt="logo" className='w-28 cursor-pointer mr-14' />
+            <Image src={assets.logo1} alt="logo" className='w-28 cursor-pointer mr-14' />
         </a>
         <ul>
             <li><a href="#top">Home</a></li>
