@@ -16,7 +16,7 @@ const navbar = () => {
   return (
     <>
     <div className='fixed tp-0 right-0 w-11/12 -z-10 transalte-y-[-80%]'>
-      <Image src={assets.header_bg_color} alt="" className="w-full" />
+      <Image src={assets.header_bg_color} alt="" className="w-full" priority />
     </div>
       <nav className='w-full fixed px-5 lg:px-8 xl:px-[8%] py-4 flex items-center justify-between bg-white z-50'>
         <a href="">
