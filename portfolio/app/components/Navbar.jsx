@@ -40,7 +40,7 @@ const navbar = () => {
             
             <button className="block md:hidden ml-3" onClick={openMenu}>
             <div className='bg-white p-1 rounded'>
-              <Image src={assets.menu_black} alt="menu" className='w-6' /> {/* Added background and padding */}
+              <Image src={assets.menu_black} alt="menu" className='w-6' />
             </div>
             </button>
         </div>
