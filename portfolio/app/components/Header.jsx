@@ -16,7 +16,7 @@ const Header = () => {
         Software engineer based in Kenya.
       </h1>
       <p className='max-w-2xl mx-auto font-Ovo'>
-        I am a software engineer from Nairobi, Kenya, passionate about building impactful and innovative solutions in web development and artificial intelligence.
+        I am a software engineer from Nairobi, Kenya, passionate about building impactful and innovative solutions in software development and artificial intelligence.
         I enjoy leveraging technology to solve real-world problems and explore the potential of AI to shape the future.
       </p>
 
